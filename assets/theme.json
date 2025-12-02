@@ -1,0 +1,133 @@
+{
+    "name": "WiFi Tester Pro Theme",
+    "version": "6.0",
+    "appearance_mode": "dark",
+    "colors": {
+        "primary": "#1E90FF",
+        "primary_hover": "#4169E1",
+        "secondary": "#2ECC71",
+        "secondary_hover": "#27AE60",
+        "accent": "#9B59B6",
+        "accent_hover": "#8E44AD",
+        "success": "#2ECC71",
+        "success_hover": "#27AE60",
+        "warning": "#F39C12",
+        "warning_hover": "#E67E22",
+        "error": "#E74C3C",
+        "error_hover": "#C0392B",
+        "info": "#3498DB",
+        "info_hover": "#2980B9",
+        "background": {
+            "dark": "#1a1a2e",
+            "medium": "#16213e",
+            "light": "#0f3460"
+        },
+        "surface": {
+            "dark": "#0f0f23",
+            "medium": "#1a1a2e",
+            "light": "#252547"
+        },
+        "text": {
+            "primary": "#FFFFFF",
+            "secondary": "#B0B0B0",
+            "muted": "#6C7A89",
+            "disabled": "#4A4A4A"
+        },
+        "border": {
+            "default": "#3a3a5c",
+            "active": "#1E90FF",
+            "error": "#E74C3C"
+        },
+        "terminal": {
+            "background": "#0a0a1a",
+            "foreground": "#00FF00",
+            "cursor": "#00FF00",
+            "selection": "#1E90FF"
+        },
+        "signal": {
+            "excellent": "#2ECC71",
+            "good": "#27AE60",
+            "fair": "#F39C12",
+            "weak": "#E67E22",
+            "poor": "#E74C3C"
+        },
+        "security": {
+            "open": "#E74C3C",
+            "wep": "#E67E22",
+            "wpa": "#F39C12",
+            "wpa2": "#2ECC71",
+            "wpa3": "#1E90FF"
+        }
+    },
+    "fonts": {
+        "family": {
+            "primary": "Segoe UI",
+            "secondary": "Arial",
+            "monospace": "Consolas"
+        },
+        "sizes": {
+            "xs": 10,
+            "sm": 12,
+            "md": 14,
+            "lg": 16,
+            "xl": 20,
+            "xxl": 24,
+            "title": 28
+        },
+        "weights": {
+            "normal": "normal",
+            "bold": "bold"
+        }
+    },
+    "spacing": {
+        "xs": 4,
+        "sm": 8,
+        "md": 12,
+        "lg": 16,
+        "xl": 24,
+        "xxl": 32
+    },
+    "border_radius": {
+        "sm": 4,
+        "md": 8,
+        "lg": 12,
+        "xl": 16,
+        "round": 50
+    },
+    "shadows": {
+        "sm": "0 1px 2px rgba(0,0,0,0.3)",
+        "md": "0 4px 6px rgba(0,0,0,0.4)",
+        "lg": "0 10px 15px rgba(0,0,0,0.5)"
+    },
+    "animations": {
+        "duration": {
+            "fast": 150,
+            "normal": 300,
+            "slow": 500
+        }
+    },
+    "components": {
+        "button": {
+            "height": 36,
+            "padding_x": 16,
+            "border_width": 0
+        },
+        "input": {
+            "height": 40,
+            "padding_x": 12,
+            "border_width": 2
+        },
+        "card": {
+            "padding": 16,
+            "border_width": 1
+        },
+        "sidebar": {
+            "width": 220,
+            "collapsed_width": 60
+        },
+        "terminal": {
+            "max_lines": 1000,
+            "font_size": 12
+        }
+    }
+}
