@@ -67,7 +67,7 @@ python main.py
 #### Kali Linux
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/wifi-tester-pro.git
+git clone https://github.com/DiyarNzar/Wifi_tester_pro.git
 cd wifi-tester-pro
 
 # Install system dependencies
@@ -154,7 +154,7 @@ wifi_tester_pro/
 ### Setting Up Development Environment
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/wifi-tester-pro.git
+git clone https://github.com/DiyarNzar/Wifi_tester_pro.git
 cd wifi-tester-pro
 
 # Create virtual environment
@@ -222,9 +222,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/yourusername/wifi-tester-pro/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/yourusername/wifi-tester-pro/discussions)
-- 📧 **Contact**: your.email@example.com
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/DiyarNzar/wifi-tester-pro/issues)
+- 💡 **Feature Requests**: [Start a discussion](https://github.com/DiyarNzar/wifi-tester-pro/discussions)
+- 📧 **Contact**: diyarnzar11@example.com
 
 ## 🗺️ Roadmap
 
@@ -237,7 +237,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/wifi-tester-pro&type=Date)](https://star-history.com/#yourusername/wifi-tester-pro&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=DiyarNzar/wifi-tester-pro&type=Date)](https://star-history.com/#DiyarNzar/wifi-tester-pro&Date)
 
 ---
 
